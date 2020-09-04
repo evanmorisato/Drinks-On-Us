@@ -49,7 +49,29 @@ However everybody is at home and liquor stores are open….   hmmm...<p>
 - [bootstrap] (https://www.npmjs.com/package/bootstrap)
 - [i] (https://www.npmjs.com/package/i)
 
+## Getting Started
+The following section will take you through the steps of setting up this application and getting it running locally on your computer.
 
+If you don't want to set up this project locally and just want to see the deployed application, go to  https://drinks-on-us.herokuapp.com/.
+
+### 1. Clone the repository
+The first step is to clone the project repository to a local directory on your computer. To clone the repository, run the following commands:
+<pre>
+  git clone https://github.com/evanmorisato/Drinks-On-Us.git
+  cd Drinks-On-Us
+</pre>
+
+### 2. Install the Dependencies
+Run the following commands in terminal: 
+<pre>
+  npm install
+</pre>  
+
+### 3. Run Application
+Run the following command in terminal:
+<pre>
+  npm start
+</pre>  
 
 ## Features
 Search a drink by ingredient, search Random drinks, Search Beer, Brewery, maybe Wine too!
